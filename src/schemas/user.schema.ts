@@ -19,7 +19,7 @@ export class User extends Document {
   email: string;
 
   @Prop({ required: false })
-  displayName: string;
+  userName: string;
 
   @Prop({ required: false })
   photoUrl: string;

@@ -7,6 +7,9 @@ export class CreateUserDto {
 
   @Allow()
   password: string;
+  
+  @Allow()
+  userName: string;
 
   @IsOptional()
   firstName: string;
