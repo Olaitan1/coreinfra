@@ -1,0 +1,11 @@
+//PORT= 
+//GOOGLE_CLIENT_ID=''
+//GOOGLE_CLIENT_SECRET= ''
+//GOOGLE_CALLBACK_URL='https://google.com'
+//MONGODB_URI= 'mongodb://localhost:27017/localhost-db'
+//JWT_SECRET=''
+//CLOUDINARY_CLOUD_NAME= 
+//CLOUDINARY_API_KEY=
+//CLOUDINARY_API_SECRET=
+//SENDER_EMAIL='' 
+//EMAIL_PASSWORD = ''should be a gmail service
